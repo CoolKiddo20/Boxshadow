@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding-top: 118px;
+    padding-bottom: 76px;
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.header__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 58px;
+}
+.header__link{
+    color: rgb(0, 0, 0);
+    font-family: "Roboto Mono";
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42px;
+    text-shadow: 0px 7px 4px  rgba(55, 26, 171, 0.6);
+    text-decoration: none;
+}
+.hero{
+    padding-bottom: 118px;
+}
+.hero__childs{
+    width: 133px;
+    height: 133px;
+}
+
+.q{
+    margin-top: 235px;
+    border-radius: 5px;
+    box-shadow: 0px 8px 24px 0px rgb(47, 198, 60);
+     width: 133px;
+    height: 133px;
+    background: rgb(255, 255, 255);
+    display:flex;
+}
+.hero__box{
+    display:flex ;
+}
+.w{
+    border-radius: 5px;
+    box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2);
+     width: 133px;
+    height: 133px;
+    background: rgb(255, 255, 255);
+    display:flex;
+}
+.e{
+    border-radius: 5px;
+    box-shadow: 1.95px 1.95px 2.6px 0px rgba(0, 0, 0, 0.15);
+     width: 133px;
+    height: 133px;
+    background: rgb(255, 255, 255);
+    display:flex;
+}
+.r{
+    border-radius: 5px;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+     width: 133px;
+    height: 133px;
+    background: rgb(255, 255, 255);
+    display:flex;
+}
+.t{
+    border-radius: 5px;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.67);
+     width: 133px;
+    height: 133px;
+    background: rgb(255, 255, 255);
+    display:flex;
+}
+.y{
+    border-radius: 5px;
+    box-shadow: 0px 3px 8px 0px rgb(255, 0, 0);
+     width: 133px;
+    height: 133px;
+    background: rgb(255, 255, 255);
+    display:flex;
+}
+.u{
+    border-radius: 5px;
+    box-shadow: 0px 8px 24px 0px rgba(0, 127, 253, 0.92);
+     width: 133px;
+    height: 133px;
+    background: rgb(255, 255, 255);
+    display:flex;
+}
+.i{
+    border-radius: 5px;
+    box-shadow: 0px 7px 36px 0px rgba(100, 100, 111, 0.66);
+     width: 133px;
+    height: 133px;
+    background: rgb(255, 255, 255);
+    display:flex;
+}
+.o{
+    border-radius: 5px;
+    box-shadow: 1.95px 1.95px 2.6px 0px rgba(0, 0, 0, 0.15);
+     width: 133px;
+    height: 133px;
+    background: rgb(255, 255, 255);
+    display:flex;
+}
